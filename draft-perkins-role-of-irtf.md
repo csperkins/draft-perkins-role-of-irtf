@@ -19,35 +19,33 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Thoughts on the Role of the IRTF"
+abbrev: "Role of IRTF"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
+docname: draft-perkins-role-of-irtf-latest
+submissiontype: IRTF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: IRTF
+workgroup: -
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - IRTF
 venue:
-  group: WG
+  group: IRTF
   type: Working Group
-  mail: WG@example.com
+  mail: irtf-discuss@irtf.org
   arch: https://example.com/WG
-  github: USER/REPO
+  github: csperkins/draft-perkins-role-of-irtf
   latest: https://example.com/LATEST
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Colin Perkins
+    organization: University of Glasgow
+    email: csp@csperkins.org
 
 normative:
 
