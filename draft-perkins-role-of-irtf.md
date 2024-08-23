@@ -48,13 +48,13 @@ the evolution of the Internet protocols, applications, architecture, and
 technology. It focusses on longer term research issues related to the
 Internet while the parallel organisation, the Internet Engineering Task
 Force (IETF), considers shorter term issues of engineering and standards
-making. The IRTF is research organisation, not a standards development
+making. The IRTF is a research organisation, not a standards development
 organisation.
 
-The IAB has previously considered the role of the IRTF [RFC4440] and
+The IAB has previously considered the role of the IRTF [RFC4440], and
 the Primer on the IRTF for IETF Participants [RFC7418] also considers
 the topic. This memo seeks to complement those prior discussions, in the
-light of new experience in the decades since they were written.
+light of experiences in the decades since they were written.
 
 This memo is not an IETF product and is not a standard.
 
