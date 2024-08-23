@@ -33,7 +33,10 @@ informative:
 
 --- abstract
 
-TODO Abstract
+This memo discusses the role of the Internet Research Task Force (IRTF)
+and its relation to the IETF.
+It represents the personal opinion of the author and has not yet been
+reviewed by the IRSG, IAB, or the wider community.
 
 
 --- middle
