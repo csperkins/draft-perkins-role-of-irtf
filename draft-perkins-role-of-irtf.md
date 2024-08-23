@@ -5,7 +5,7 @@ category: info
 
 docname: draft-perkins-role-of-irtf-latest
 submissiontype: IRTF
-consensus: true
+consensus: false
 v: 3
 area: General
 workgroup: "IRTF"
