@@ -51,7 +51,7 @@ organisation.
 The IAB has previously considered the role of the IRTF [RFC4440] and
 the Primer on the IRTF for IETF Participants [RFC7418] also considers
 the topic. This memo seeks to complement those prior discussions, in the
-light of new experience in the decades since they were written. 
+light of new experience in the decades since they were written.
 
 This memo is not an IETF product and is not a standard.
 
@@ -105,14 +105,14 @@ they are expected to produce.
 
 Participation in research groups is by individual contributors, rather than
 by representatives of organisations, and research groups generally have
-open membership and do their work in public. 
+open membership and do their work in public.
 
 The focus of most research groups is on supporting research collaborations
 and connecting people. There needs to be an appropriate community, that can
 bring together the right set of people to form collaborations and discuss
 ideas, if a research group is to succeed and add value. Accordingly, the
 IRTF isn’t always the right home for research, even if that research is
-about the Internet. 
+about the Internet.
 
 The IRTF often works best when bringing in new people, new ideas, and new
 work and making connections between the IETF community and new parts of the
@@ -136,7 +136,7 @@ none exist at the time of this writing and they are now rarely chartered.
 If limited membership groups are to be chartered, this must be done with
 care and sensitivity, for reasons that are well-defined and clearly
 explained, so as to maintain trust in the integrity of the IRTF process and
-avoid unnecessary fragmentation of the research community. 
+avoid unnecessary fragmentation of the research community.
 
 
 # Workshops, Prizes, and Other Activities
@@ -145,7 +145,7 @@ In addition to its research groups, the IRTF sponsors a number of other
 activities. At the time of this writing, these include the Applied
 Networking Research Prize (ANRP), organised in conjunction with the
 Internet Society, and the ACM/IRTF Applied Networking Research Workshop
-(ANRW). 
+(ANRW).
 
 The ANRW provides a venue for publication of academic research in the form
 of a workshop that co-locates with the July IETF meeting. It is
@@ -198,7 +198,7 @@ standards developers with experts who might help to review ideas or
 proposals that need specialist expertise not otherwise be available. This
 has been especially evident in the field of cryptography, where the Crypto
 Forum Research Group coordinates expert advice on the appropriate use of
-cryptographic algorithms, but it is not limited to that domain. 
+cryptographic algorithms, but it is not limited to that domain.
 
 In general, the IRTF seeks to encourage and facilitate connections and
 collaboration between the research community and the standards development
@@ -240,7 +240,7 @@ impact on economics, privacy, human rights, and society more broadly.
 Helping those who develop and operate the Internet to understand the
 broader implications of their work, and helping researchers studying the
 wider use and impact of the Internet to understand how and why the Internet
-works as it does, is an important part of role of the IRTF. 
+works as it does, is an important part of role of the IRTF.
 
 
 # Security Considerations
