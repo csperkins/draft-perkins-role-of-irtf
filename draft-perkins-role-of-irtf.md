@@ -248,7 +248,11 @@ works as it does, is an important part of role of the IRTF.
 
 # Security Considerations
 
-TODO Security
+This document has no direct security implications.
+
+Research discussed in IRTF has the potential to significantly impact the
+security and privacy of users of the Internet. Researchers must consider
+potential security risks and benefits when conducting their work.
 
 
 # IANA Considerations
