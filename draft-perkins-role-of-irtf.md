@@ -5,19 +5,13 @@ category: info
 
 docname: draft-perkins-role-of-irtf-latest
 submissiontype: IRTF
-number:
-date:
 consensus: true
 v: 3
 area: IRTF
-workgroup: IRSG
+workgroup: "IRTF"
 keyword:
  - IRTF
 venue:
-  group: IRTF
-  type: Working Group
-  mail: irtf-discuss@irtf.org
-  arch: https://example.com/WG
   github: csperkins/draft-perkins-role-of-irtf
   latest: https://example.com/LATEST
 
