@@ -48,8 +48,8 @@ Force (IETF), considers shorter term issues of engineering and standards
 making. The IRTF is research organisation, not a standards development
 organisation.
 
-The IAB has previously considered the role of the IRTF [RFC 4440] and
-the Primer on the IRTF for IETF Participants [RFC 7418] also considers
+The IAB has previously considered the role of the IRTF [RFC4440] and
+the Primer on the IRTF for IETF Participants [RFC7418] also considers
 the topic. This memo seeks to complement those prior discussions, in the
 light of new experience in the decades since they were written. 
 
@@ -131,7 +131,7 @@ Accordingly, there may be value in a research group considering a problem
 that is, or has been been, studied elsewhere. Generally, though, the IRTF
 tries to avoid competing with other organisations.
 
-Research groups with limited membership are permitted [[[RFC 2014]]], but
+Research groups with limited membership are permitted [RFC2014], but
 none exist at the time of this writing and they are now rarely chartered.
 If limited membership groups are to be chartered, this must be done with
 care and sensitivity, for reasons that are well-defined and clearly
