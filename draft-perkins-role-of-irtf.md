@@ -1,5 +1,5 @@
 ---
-title: "Thoughts on the Role of the IRTF"
+title: "Thoughts on the Role of the Internet Research Task Force (IRTF)"
 abbrev: "Role of IRTF"
 category: info
 
