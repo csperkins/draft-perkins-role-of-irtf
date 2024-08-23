@@ -10,7 +10,7 @@ date:
 consensus: true
 v: 3
 area: IRTF
-workgroup: -
+workgroup: 
 keyword:
  - IRTF
 venue:
