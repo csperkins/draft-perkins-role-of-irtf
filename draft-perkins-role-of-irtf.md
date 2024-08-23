@@ -7,13 +7,13 @@ docname: draft-perkins-role-of-irtf-latest
 submissiontype: IRTF
 consensus: true
 v: 3
-area: IRTF
+area: General
 workgroup: "IRTF"
 keyword:
  - IRTF
 venue:
-  github: csperkins/draft-perkins-role-of-irtf
-  latest: https://example.com/LATEST
+  github: "csperkins/draft-perkins-role-of-irtf"
+  latest: "https://csperkins.github.io/draft-perkins-role-of-irtf/draft-perkins-role-of-irtf.html"
 
 author:
  -
