@@ -7,8 +7,8 @@ docname: draft-perkins-role-of-irtf-latest
 submissiontype: IRTF
 consensus: false
 v: 3
-area: General
-workgroup: "IRTF"
+# area: General
+# workgroup: "IRTF"
 keyword:
  - IRTF
 venue:
