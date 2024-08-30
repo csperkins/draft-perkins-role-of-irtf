@@ -73,8 +73,9 @@ on, in, or for the Internet. Other times, the focus is on more open-ended
 research that explores a problem, issue, or concern that might become
 important to the Internet in future, or that encourages the development of
 a nascent technology where the IRTF can help the research community connect
-with people in the IETF who may have more practical Internet engineering or
-operational experience. And, in certain circumstances, short-lived and
+with people in the IETF who can contribute their experience in production
+Internet engineering and operations.
+And, in certain circumstances, short-lived and
 tightly focussed research groups may be chartered to consider, and perhaps
 provide advice to the IETF community about, a specific problem or concern.
 
@@ -267,3 +268,8 @@ This document has no IANA actions.
 
 This work was supported in part by the UK Engineering and Physical Sciences
 Research Council under grant EP/S036075/1.
+
+Thanks for
+Allison Mankin
+for their feedback and review of this document.
+
