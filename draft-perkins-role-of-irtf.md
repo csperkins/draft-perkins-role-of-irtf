@@ -1,5 +1,5 @@
 ---
-title: "Thoughts on the Role of the Internet Research Task Force (IRTF)"
+title: "The Role of the Internet Research Task Force (IRTF)"
 abbrev: "Role of IRTF"
 category: info
 
@@ -33,11 +33,13 @@ informative:
 
 --- abstract
 
-This memo discusses the role of the Internet Research Task Force (IRTF)
-and its relation to the IETF.
-It represents the personal opinion of the author and has not yet been
-reviewed by the IRSG, IAB, or the wider community.
+This memo discusses the role of the Internet Research Task Force (IRTF),
+considering its research groups, community, and the various workshops,
+prizes, and other activities it supports. The relationship of the IRTF
+to the IETF is also considered.
 
+This document is a product of the Internet Research Steering Group
+(IRSG).
 
 --- middle
 
