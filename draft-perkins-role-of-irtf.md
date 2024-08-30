@@ -149,7 +149,7 @@ In addition to its research groups, the IRTF sponsors a number of other
 activities. At the time of this writing, these include the Applied
 Networking Research Prize (ANRP), organised in conjunction with the
 Internet Society, and the ACM/IRTF Applied Networking Research Workshop
-(ANRW).
+(ANRW), and a diversity travel grant programme.
 
 The ANRW provides a venue for publication of academic research in the form
 of a workshop that co-locates with the July IETF meeting. It is
@@ -167,10 +167,17 @@ Several prize winners have brought their work into the IRTF or IETF,
 leading to publication of a number of RFCs and improvements to several IETF
 standards and to operational practise.
 
+The IRTF also offers support, in the form of travel grants and fee waivers,
+to help early-career academics and PhD students from under-represented
+groups to attend the IRTF meetings and events.
+
 These activities play an important role in connecting the IRTF to the
-academic research community and in providing an opportunity to potentially
+academic research community, in providing an opportunity to potentially
 translate research results into concrete impact via connections with the
-standards community and broader industry.
+standards community and broader industry, and in supporing those who may
+otherwise be unable to participate.
+The generous sponsorship, from many companies and other organisations,
+that makese these activities possible is gratefully acknowledged.
 
 
 # Relation to the IETF
