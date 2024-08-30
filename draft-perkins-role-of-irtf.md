@@ -83,7 +83,8 @@ Research groups can publish experimental or informational documents in the
 RFC series. Some groups make frequent and effective use of this publication
 venue, but RFCs are often not the focus of research groups. The main output
 of many research groups is knowledge and understanding, often expressed in
-the form of academic papers or proof-of-concept implementations of new
+the form of academic papers, experimental results and evaluations, or
+proof-of-concept implementations of new
 ideas, rather than RFCs. IRTF research groups are successful if they
 stimulate discussion, produce relevant research and advance the state of
 knowledge, and make connections between the research and standards
@@ -285,6 +286,7 @@ Research Council under grant EP/S036075/1.
 
 Thanks to
 Jane Coffin,
+Dirk Kutscher,
 and
 Allison Mankin
 for their feedback and review.
