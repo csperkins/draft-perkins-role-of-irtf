@@ -143,6 +143,12 @@ care and sensitivity, for reasons that are well-defined and clearly
 explained, so as to maintain trust in the integrity of the IRTF process and
 avoid unnecessary fragmentation of the research community.
 
+The IETF Administration LLC (IETF LLC) provides the corporate legal home
+for the IETF, the IRTF, and the Internet Architecture Board, and is
+responsible for supporting their ongoing operations, managing their
+finances and budget, and raising money. Administrative and logistical
+support for the IRTF is provided by the IETF Secretariat.
+
 
 # Workshops, Prizes, and Other Activities
 
@@ -277,7 +283,9 @@ This document has no IANA actions.
 This work was supported in part by the UK Engineering and Physical Sciences
 Research Council under grant EP/S036075/1.
 
-Thanks for
+Thanks to
+Jane Coffin,
+and
 Allison Mankin
-for their feedback and review of this document.
+for their feedback and review.
 
