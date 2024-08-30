@@ -108,7 +108,8 @@ they are expected to produce.
 # Community
 
 Participation in research groups is by individual contributors, rather than
-by representatives of organisations.
+by representatives of organisations, and those individuals volunteer their
+time and contributions to the IRTF.
 
 The focus of most research groups is on supporting research collaborations
 and connecting people. There needs to be an appropriate community, that can
