@@ -108,8 +108,7 @@ they are expected to produce.
 # Community
 
 Participation in research groups is by individual contributors, rather than
-by representatives of organisations, and research groups generally have
-open membership and do their work in public.
+by representatives of organisations.
 
 The focus of most research groups is on supporting research collaborations
 and connecting people. There needs to be an appropriate community, that can
@@ -135,7 +134,8 @@ Accordingly, there may be value in a research group considering a problem
 that is, or has been been, studied elsewhere. Generally, though, the IRTF
 tries to avoid competing with other organisations.
 
-Research groups with limited membership are permitted [RFC2014], but
+Research groups generally have open membership and do their work in public.
+While research groups with limited membership are permitted [RFC2014],
 none exist at the time of this writing and they are now rarely chartered.
 If limited membership groups are to be chartered, this must be done with
 care and sensitivity, for reasons that are well-defined and clearly
