@@ -30,6 +30,17 @@ informative:
 
   RFC7418:
 
+  I-D.perkins-irtf-code-of-conduct:
+
+  ANTI-HARASSMENT:
+    title: IETF Anti-Harassment Policy
+    target: https://irtf.org/policies/#anti-harassment
+    date: Nov, 2013
+
+  OMBUDSTEAM:
+    title: Ombudsteam
+    target: https://www.ietf.org/contact/ombudsteam/
+    date: Nov, 2013
 
 --- abstract
 
@@ -113,6 +124,13 @@ they are expected to produce.
 Participation in research groups is by individual contributors, rather than
 by representatives of organisations, and those individuals volunteer their
 time and contributions to the IRTF.
+To ensure that all participants are treated with dignity, decency, and
+respect, and to encourage broad participation, participants in the IRTF
+follow a code of conduct [I-D.perkins-irtf-code-of-conduct], including
+an anti-harassment policy [ANTI-HARASSMENT].
+An Ombudsteam is available [OMBUDSTEAM] to address conduct issues and work
+on an independent and confidential basis.
+
 
 The focus of most research groups is on supporting research collaborations
 and connecting people. There needs to be an appropriate community, that can
@@ -288,6 +306,7 @@ Research Council under grant EP/S036075/1.
 
 Thanks to
 Jane Coffin,
+Lars Eggert,
 Dirk Kutscher,
 and
 Allison Mankin
