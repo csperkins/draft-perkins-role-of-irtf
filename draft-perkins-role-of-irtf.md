@@ -134,7 +134,7 @@ participation, participants in the IRTF follow a code of conduct
 conduct issues and works on an independent and confidential basis.
 
 Participants are also required to disclose Intellectual Property Rights
-(e.g., patents) relating to contributions they make to the IRTF 
+(e.g., patents) relating to contributions they make to the IRTF
 [RFC5743], [RFC8179].
 
 The focus of most research groups is on supporting research collaborations
