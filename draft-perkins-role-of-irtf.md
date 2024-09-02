@@ -121,16 +121,13 @@ they are expected to produce.
 
 # Community
 
-Participation in research groups is by individual contributors, rather than
-by representatives of organisations, and those individuals volunteer their
-time and contributions to the IRTF.
-To ensure that all participants are treated with dignity, decency, and
-respect, and to encourage broad participation, participants in the IRTF
-follow a code of conduct [I-D.perkins-irtf-code-of-conduct], including
-an anti-harassment policy [ANTI-HARASSMENT].
-An Ombudsteam is available [OMBUDSTEAM] to address conduct issues and work
-on an independent and confidential basis.
-
+Participation in the IRTF is by individual volunteer contributors, rather
+than by representatives of organisations. To ensure that all participants
+are treated with dignity, decency, and respect, and to encourage broad
+participation, participants in the IRTF follow a code of conduct
+[I-D.perkins-irtf-code-of-conduct], including an anti-harassment policy
+[ANTI-HARASSMENT]. An Ombudsteam is available [OMBUDSTEAM] to address
+conduct issues and work on an independent and confidential basis.
 
 The focus of most research groups is on supporting research collaborations
 and connecting people. There needs to be an appropriate community, that can
