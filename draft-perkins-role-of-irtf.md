@@ -30,6 +30,10 @@ informative:
 
   RFC7418:
 
+  RFC5743:
+
+  RFC8179:
+
   I-D.perkins-irtf-code-of-conduct:
 
   ANTI-HARASSMENT:
@@ -128,6 +132,10 @@ participation, participants in the IRTF follow a code of conduct
 [I-D.perkins-irtf-code-of-conduct], including an anti-harassment policy
 [ANTI-HARASSMENT]. An Ombudsteam is available [OMBUDSTEAM] to address
 conduct issues and works on an independent and confidential basis.
+
+Participants are also required to disclose Intellectual Property Rights
+(e.g., patents) relating to contributions they make to the IRTF 
+[RFC5743], [RFC8179].
 
 The focus of most research groups is on supporting research collaborations
 and connecting people. There needs to be an appropriate community, that can
