@@ -12,12 +12,10 @@
 /.targets.mk
 /.venv/
 /.vscode/
-/lib
 /node_modules/
 /versioned/
 Gemfile.lock
 archive.json
-draft-perkins-role-of-irtf.xml
 package-lock.json
 report.xml
 !requirements.txt
