@@ -34,6 +34,8 @@ informative:
 
   RFC8179:
 
+  RFC8789:
+
   RFC9775:
 
   ANTI-HARASSMENT:
@@ -106,6 +108,12 @@ ideas, rather than RFCs. IRTF research groups are successful if they
 stimulate discussion, produce relevant research and advance the state of
 knowledge, and make connections between the research and standards
 communities.
+
+Truth and knowledge do not require rough consensus and, unlike the IETF
+[RFC8789], there is no requirement to demonstrate consensus for RFCs
+published by the IRTF [RFC2014]. Research groups should seek to produce
+good quality scholarly work, regardless of whether that is an RFC or some
+other publication.
 
 Sometimes, the outcome of a research group is the understanding that an
 idea is both practical and potentially useful. In this case it might be
