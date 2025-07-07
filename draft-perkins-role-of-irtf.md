@@ -181,7 +181,7 @@ support for the IRTF is provided by the IETF Secretariat.
 In addition to its research groups, the IRTF sponsors a number of other
 activities. At the time of this writing, these include the Applied
 Networking Research Prize (ANRP), organised in conjunction with the
-Internet Society, and the ACM/IRTF Applied Networking Research Workshop
+Internet Society, the ACM/IRTF Applied Networking Research Workshop
 (ANRW), and a diversity travel grant programme.
 
 The ANRW provides a venue for publication of academic research in the form
