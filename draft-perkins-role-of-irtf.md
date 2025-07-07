@@ -34,7 +34,7 @@ informative:
 
   RFC8179:
 
-  I-D.perkins-irtf-code-of-conduct:
+  RFC9775:
 
   ANTI-HARASSMENT:
     title: IETF Anti-Harassment Policy
@@ -129,7 +129,7 @@ Participation in the IRTF is by individual volunteer contributors, rather
 than by representatives of organisations. To ensure that all participants
 are treated with dignity, decency, and respect, and to encourage broad
 participation, participants in the IRTF follow a code of conduct
-[I-D.perkins-irtf-code-of-conduct], including an anti-harassment policy
+[RFC9775], including an anti-harassment policy
 [ANTI-HARASSMENT]. An Ombudsteam is available [OMBUDSTEAM] to address
 conduct issues and works on an independent and confidential basis.
 
