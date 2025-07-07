@@ -138,11 +138,11 @@ Participants are also required to disclose Intellectual Property Rights
 [RFC5743], [RFC8179].
 
 The focus of most research groups is on supporting research collaborations
-and connecting people. There needs to be an appropriate community, that can
-bring together the right set of people to form collaborations and discuss
-ideas, if a research group is to succeed and add value. Accordingly, the
-IRTF isn’t always the right home for research, even if that research is
-about the Internet.
+and connecting people.  If a research group is to succeed and add value,
+there needs to be an appropriate community that can bring together the
+right set of people to form collaborations and to discuss ideas.
+Accordingly, the IRTF isn’t always the right home for research, even if
+that research is about the Internet.
 
 The IRTF often works best when bringing in new people, new ideas, and new
 work and making connections between the IETF community and new parts of the
@@ -313,6 +313,7 @@ Thanks to
 Jane Coffin,
 Lars Eggert,
 Dirk Kutscher,
+Eliot Lear,
 and
 Allison Mankin
 for their feedback and review.
