@@ -1,6 +1,8 @@
-# Thoughts on the Role of the IRTF
+<!-- regenerate: on (set to off if you edit this file) -->
 
-This is the working area for the individual Internet-Draft, "Thoughts on the Role of the IRTF".
+# The Role of the Internet Research Task Force (IRTF)
+
+This is the working area for the individual Internet-Draft, "The Role of the Internet Research Task Force (IRTF)".
 
 * [Editor's Copy](https://csperkins.github.io/draft-perkins-role-of-irtf/#go.draft-perkins-role-of-irtf.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-perkins-role-of-irtf)
