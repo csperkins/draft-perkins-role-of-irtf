@@ -352,7 +352,9 @@ Table of Contents
               (IRTF) Document Stream", RFC 5743, DOI 10.17487/RFC5743,
               December 2009, <https://www.rfc-editor.org/rfc/rfc5743>.
 
-   [RFC7418]  "*** BROKEN REFERENCE ***".
+   [RFC7418]  Dawkins, S., Ed., "An IRTF Primer for IETF Participants",
+              RFC 7418, DOI 10.17487/RFC7418, December 2014,
+              <https://www.rfc-editor.org/rfc/rfc7418>.
 
    [RFC8179]  "*** BROKEN REFERENCE ***".
 
