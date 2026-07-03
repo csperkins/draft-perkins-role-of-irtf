@@ -70,8 +70,8 @@ Force (IETF), considers shorter term issues of engineering and standards
 making. The IRTF is a research organisation, not a standards development
 organisation.
 
-The IAB has previously considered the role of the IRTF [RFC4440], and
-the Primer on the IRTF for IETF Participants [RFC7418] also considers
+The IAB has previously considered the role of the IRTF {{RFC4440}}, and
+the Primer on the IRTF for IETF Participants {{RFC7418}} also considers
 the topic. This memo seeks to complement those prior discussions, in the
 light of experiences in the decades since they were written.
 
@@ -110,8 +110,8 @@ knowledge, and make connections between the research and standards
 communities.
 
 Truth and knowledge do not require rough consensus and, unlike the IETF
-[RFC8789], there is no requirement to demonstrate consensus for RFCs
-published by the IRTF [RFC2014]. Research groups should seek to produce
+{{RFC8789}}, there is no requirement to demonstrate consensus for RFCs
+published by the IRTF {{RFC2014}}. Research groups should seek to produce
 good quality scholarly work, regardless of whether that is an RFC or some
 other publication.
 
@@ -137,13 +137,13 @@ Participation in the IRTF is by individual volunteer contributors, rather
 than by representatives of organisations. To ensure that all participants
 are treated with dignity, decency, and respect, and to encourage broad
 participation, participants in the IRTF follow a code of conduct
-[RFC9775], including an anti-harassment policy
-[ANTI-HARASSMENT]. An Ombudsteam is available [OMBUDSTEAM] to address
+{{RFC9775}}, including an anti-harassment policy
+{{ANTI-HARASSMENT}}. An Ombudsteam is available {{OMBUDSTEAM}} to address
 conduct issues and works on an independent and confidential basis.
 
 Participants are also required to disclose Intellectual Property Rights
 (e.g., patents) relating to contributions they make to the IRTF
-[RFC5743], [RFC8179].
+{{RFC5743}}, {{RFC8179}}.
 
 The focus of most research groups is on supporting research collaborations
 and connecting people.  If a research group is to succeed and add value,
@@ -170,7 +170,7 @@ that is, or has been been, studied elsewhere. Generally, though, the IRTF
 tries to avoid competing with other organisations.
 
 Research groups generally have open membership and do their work in public.
-While research groups with limited membership are permitted [RFC2014],
+While research groups with limited membership are permitted {{RFC2014}},
 none exist at the time of this writing and they are now rarely chartered.
 If limited membership groups are to be chartered, this must be done with
 care and sensitivity, for reasons that are well-defined and clearly
