@@ -55,8 +55,8 @@ considering its research groups, community, and the various workshops,
 prizes, and other activities it supports. The relationship of the IRTF
 to the IETF is also considered.
 
-This document is a product of the Internet Research Steering Group
-(IRSG).
+This memo is a product of the Internet Research Steering Group (IRSG). It
+is not an IETF product and is not a standard.
 
 --- middle
 
